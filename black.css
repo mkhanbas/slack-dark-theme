@@ -1391,7 +1391,7 @@ code { background-color: #000; border: 1px solid #363636; color: #e6e6e6; }
 
 .cm-s-default .cm-variable-3 { color: #c5e1a5; }
 
-.cm-s-default .cm-comment { color: #ffcc80; }
+.cm-s-default .cm-comment { color: #9138c5a9; }
 
 .cm-s-default .cm-string { color: #ef9a9a; }
 
@@ -1455,7 +1455,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket { color: #bf360c; }
 
 .sssh-property { color: #e6e6e6; }
 
-.sssh-comment { color: #ffcc80; }
+.sssh-comment { color: #9138c5a9; }
 
 .sssh-string { color: #ef9a9a; }
 
@@ -2777,7 +2777,7 @@ ts-jumper input[type=text]::-webkit-input-placeholder, ts-jumper input[type=text
 
 ts-jumper ol li { color: #e6e6e6; }
 
-ts-jumper ol li .channel_name, ts-jumper ol li .member_real_name, ts-jumper ol li .member_username, ts-jumper ol li .team_username { color: #949494; }
+ts-jumper ol li .channel_name, ts-jumper ol li .member_real_name, ts-jumper ol li .member_username, ts-jumper ol li .team_username { color: #c2c2c2; }
 
 ts-jumper ol li .channel_not_member, ts-jumper ol li .team_username, ts-jumper ol li .member_real_name + .member_username, ts-jumper ol li .member_username + .member_real_name, ts-jumper ol li ts-icon { color: #949494; }
 
@@ -3500,7 +3500,7 @@ body.api .hljs-variable { color: #9fa8da; }
 
 body.api .hljs-template-variable { color: #c5e1a5; }
 
-body.api .hljs-comment { color: #ffcc80; }
+body.api .hljs-comment { color: #9138c5a9; }
 
 body.api .hljs-doctag, body.api .hljs-string { color: #ef9a9a; }
 
